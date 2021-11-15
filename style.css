@@ -1,0 +1,33 @@
+.header{
+    background-color: #3498db;
+}
+.headerlogo{
+
+}
+.headerlogo img{
+      width: 180px;
+}
+.primarymenu{
+
+}
+.primarymenu ul{
+    list-style: none;
+    text-align: right;
+    margin-bottom: 0;
+}
+.primarymenu ul li{
+     display: inline-block;
+     margin-left: -4px;
+}
+.primarymenu ul li a{
+   color: white;
+   font-size: 15px;
+   padding: 20px 20px;
+   text-decoration: none;
+   border-right: 1px solid white;
+   font-size: 20px;
+   line-height: 55px;
+}
+.primarymenu ul li a:hover{
+   background-color:#2980b9;
+}
